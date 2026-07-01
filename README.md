@@ -6,9 +6,10 @@
 
 ### 👨‍💻 About Me
 
-Hi, I'm Toshit, currently pursuing a Bachelor of Technology (B.Tech.) in Electronics and Communication Engineering (ECE). I'm passionate about software development and am working towards becoming a Full Stack Developer.
+Currently pursuing a **Bachelor of Technology (B.Tech.) in Electronics and Communication Engineering (ECE)**, with a strong interest in software development and system programming. I'm working towards becoming a Full-Stack Developer while building a solid foundation in computer science.
 
-Alongside my engineering studies, I'm learning C, Data Structures & Algorithms, JavaScript, React, Node.js, and modern web technologies while building projects to strengthen my practical skills.
+Alongside my engineering studies, I'm learning **C**, **Data Structures & Algorithms**, **JavaScript**, **React**, **Node.js**, and modern web technologies, while building projects to strengthen my practical skills.
+
 ---
 ### <span style="color:#A3E635"></span> STACK & TOOLS
 
