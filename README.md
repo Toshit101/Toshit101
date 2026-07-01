@@ -15,46 +15,41 @@ Alongside web applications, I spend time exploring **low-level system programmin
 Currently, I am an Electronics and Communication Engineering student (2025-2029) at Galgotias College of Engineering and Technology, balancing my academic coursework with hands-on development and actively learning core electronics concepts.
 
 ---
+### <span style="color:#A3E635">─</span> STACK & TOOLS
 
-### 🚀 Tech Stack & Tools
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/REACT-18181B?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/TAILWIND_CSS-18181B?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/VITE-18181B?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/HTML5-18181B?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-18181B?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <br>
+  <!-- Backend & Database -->
+  <img src="https://img.shields.io/badge/NODE.JS-18181B?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/EXPRESS-18181B?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MONGODB-18181B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MONGOOSE-18181B?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/FIREBASE-18181B?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/REST_APIs-18181B?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT_AUTH-18181B?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Auth" />
+  <br>
+  <!-- Systems, Core & Tools -->
+  <img src="https://img.shields.io/badge/C-18181B?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/LINUX-18181B?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/GIT-18181B?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/DOCKER-18181B?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="20%"><b>Frontend</b></td>
-    <td align="center" width="20%"><b>Backend</b></td>
-    <td align="center" width="20%"><b>Database & BaaS</b></td>
-    <td align="center" width="20%"><b>Systems & Core</b></td>
-    <td align="center" width="20%"><b>Tools & Environments</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML5</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="45"/><br>Firebase</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="45"/><br>C</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="45"/><br>Docker</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS3</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
-    <td align="center"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="45"/><br>Linux</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="45"/><br>ADB / Scrcpy</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vite" width="45"/><br>Vite</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-</table>
 ---
+### <span style="color:#A3E635">─</span> CONNECT
 
+<p align="left">
+  <a href="mailto:kesarwanit4@gmail.com >
+    <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/toshit-kesarwani-529b3b2b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 ---
