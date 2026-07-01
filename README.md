@@ -43,4 +43,3 @@ Alongside my engineering studies, I'm learning **C**, **Data Structures & Algori
     <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
----
