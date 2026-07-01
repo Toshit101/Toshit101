@@ -28,18 +28,13 @@ Currently, I am an Electronics and Communication Engineering student (2025-2029)
   <!-- Backend & Database -->
   <img src="https://img.shields.io/badge/NODE.JS-18181B?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/EXPRESS-18181B?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MONGODB-18181B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MONGOOSE-18181B?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
   <img src="https://img.shields.io/badge/FIREBASE-18181B?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
   <img src="https://img.shields.io/badge/REST_APIs-18181B?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/JWT_AUTH-18181B?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Auth" />
   <br>
   <!-- Systems, Core & Tools -->
   <img src="https://img.shields.io/badge/C-18181B?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/LINUX-18181B?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/GIT-18181B?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/DOCKER-18181B?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
+  
 
 ---
 ### <span style="color:#A3E635">─</span> CONNECT
