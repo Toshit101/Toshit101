@@ -6,16 +6,11 @@
 
 ### 👨‍💻 About Me
 
-I build software where users actually interact with it, while also exploring what happens under the hood—both in software and hardware. 
+Hi, I'm Toshit, currently pursuing a Bachelor of Technology (B.Tech.) in Electronics and Communication Engineering (ECE). I'm passionate about software development and am working towards becoming a Full Stack Developer.
 
-My work focuses on **full-stack web development**, relying on modern frameworks and tools rather than just collecting tutorials. I learn primarily by building and testing real projects, such as competing in MLH hackathons. 
-
-Alongside web applications, I spend time exploring **low-level system programming and Linux administration**. This helps me understand how software behaves at the system level—managing resources, latency, and terminal commands—and turns that understanding into functional, well-rounded applications. 
-
-Currently, I am an Electronics and Communication Engineering student (2025-2029) at Galgotias College of Engineering and Technology, balancing my academic coursework with hands-on development and actively learning core electronics concepts.
-
+Alongside my engineering studies, I'm learning C, Data Structures & Algorithms, JavaScript, React, Node.js, and modern web technologies while building projects to strengthen my practical skills.
 ---
-### <span style="color:#A3E635">─</span> STACK & TOOLS
+### <span style="color:#A3E635"></span> STACK & TOOLS
 
 <p align="left">
   <!-- Frontend -->
@@ -28,7 +23,7 @@ Currently, I am an Electronics and Communication Engineering student (2025-2029)
   <!-- Backend & Database -->
   <img src="https://img.shields.io/badge/NODE.JS-18181B?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/EXPRESS-18181B?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/FIREBASE-18181B?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <!-- <img src="https://img.shields.io/badge/FIREBASE-18181B?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" /> -->
   <img src="https://img.shields.io/badge/REST_APIs-18181B?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
   <br>
   <!-- Systems, Core & Tools -->
@@ -37,7 +32,7 @@ Currently, I am an Electronics and Communication Engineering student (2025-2029)
   
 
 ---
-### <span style="color:#A3E635">─</span> CONNECT
+### <span style="color:#A3E635"></span> CONNECT
 
 <p align="left">
   <a href="mailto:kesarwanit4@gmail.com">
